@@ -1,0 +1,5 @@
+﻿  GUI.cpp
+d:\c++ working\pj sub\pj sub\gui.cpp(387): warning C4101: 'cinput': 未參考的區域變數
+d:\c++ working\pj sub\pj sub\gui.cpp(386): warning C4101: 'recordchoose': 未參考的區域變數
+  pj sub.vcxproj -> D:\c++ working\pj sub\Debug\pj sub.exe
+  pj sub.vcxproj -> D:\c++ working\pj sub\Debug\pj sub.pdb (Full PDB)
